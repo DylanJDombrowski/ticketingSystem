@@ -1,0 +1,16 @@
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.AssemblyInfo.cs
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.sourcelink.json
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\bin\Debug\net8.0\ClientTicketing.Infrastructure.deps.json
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\bin\Debug\net8.0\ClientTicketing.Infrastructure.dll
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\bin\Debug\net8.0\ClientTicketing.Infrastructure.pdb
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\bin\Debug\net8.0\ClientTicketing.Core.dll
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\bin\Debug\net8.0\ClientTicketing.Core.pdb
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTi.07D91B2B.Up2Date
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.dll
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\refint\ClientTicketing.Infrastructure.dll
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ClientTicketing.Infrastructure.pdb
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Infrastructure\obj\Debug\net8.0\ref\ClientTicketing.Infrastructure.dll

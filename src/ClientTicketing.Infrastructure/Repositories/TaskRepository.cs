@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using ClientTicketing.Core.Interfaces;
 using ClientTicketing.Core.Models;
 using ClientTicketing.Infrastructure.Data;
+using TaskStatus = ClientTicketing.Core.Models.TaskStatus;
 
 namespace ClientTicketing.Infrastructure.Repositories
 {
