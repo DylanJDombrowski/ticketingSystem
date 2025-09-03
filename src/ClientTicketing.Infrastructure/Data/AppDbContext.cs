@@ -7,18 +7,15 @@ using ClientTicketing.Core.Interfaces;
 namespace ClientTicketing.Infrastructure.Data
 {
     public class AppDbContext : IdentityDbContext<User, Role, int>
+{
+    private readonly ITenantService? _tenantService;
+
+    public AppDbContext(DbContextOptions<AppDbContext> options, ITenantService? tenantService = null) 
+        : base(options)
     {
-        private readonly ITenantService? _tenantService;
+        _tenantService = tenantService;
+    }
 
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
-        {
-        }
-
-        public AppDbContext(DbContextOptions<AppDbContext> options, ITenantService tenantService) 
-            : base(options)
-        {
-            _tenantService = tenantService;
-        }
 
         public DbSet<Tenant> Tenants { get; set; }
         public DbSet<Client> Clients { get; set; }

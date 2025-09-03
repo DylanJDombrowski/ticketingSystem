@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {}
+    "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {
+    "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj",
         "projectName": "ClientTicketing.Core",
-        "projectPath": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj",
-        "packagesPath": "C:\\Users\\Dylan.Dombrowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\obj\\",
+        "projectPath": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj",
+        "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dylan.Dombrowski\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dylan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

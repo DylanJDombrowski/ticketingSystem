@@ -829,19 +829,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dylan.Dombrowski\\.nuget\\packages\\": {}
+    "C:\\Users\\Dylan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\ClientTicketing.Billing.csproj",
+      "projectUniqueName": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\ClientTicketing.Billing.csproj",
       "projectName": "ClientTicketing.Billing",
-      "projectPath": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\ClientTicketing.Billing.csproj",
-      "packagesPath": "C:\\Users\\Dylan.Dombrowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\obj\\",
+      "projectPath": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\ClientTicketing.Billing.csproj",
+      "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Billing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dylan.Dombrowski\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Dylan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -853,8 +853,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {
-              "projectPath": "C:\\Users\\Dylan.Dombrowski\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj"
+            "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj": {
+              "projectPath": "C:\\Users\\Dylan\\Projects\\ticketingSystem\\src\\ClientTicketing.Core\\ClientTicketing.Core.csproj"
             }
           }
         }

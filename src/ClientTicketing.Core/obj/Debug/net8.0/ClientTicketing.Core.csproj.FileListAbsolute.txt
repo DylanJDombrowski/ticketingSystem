@@ -11,3 +11,16 @@ C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\
 C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\refint\ClientTicketing.Core.dll
 C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.pdb
 C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ref\ClientTicketing.Core.dll
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\bin\Debug\net8.0\ClientTicketing.Core.deps.json
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\bin\Debug\net8.0\ClientTicketing.Core.dll
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\bin\Debug\net8.0\ClientTicketing.Core.pdb
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.csproj.AssemblyReference.cache
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.AssemblyInfoInputs.cache
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.AssemblyInfo.cs
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.sourcelink.json
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.dll
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\refint\ClientTicketing.Core.dll
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.pdb
+C:\Users\Dylan\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ref\ClientTicketing.Core.dll
