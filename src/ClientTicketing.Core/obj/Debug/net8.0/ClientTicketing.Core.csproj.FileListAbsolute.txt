@@ -1,0 +1,5 @@
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.AssemblyInfoInputs.cache
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.AssemblyInfo.cs
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dylan.Dombrowski\Projects\ticketingSystem\src\ClientTicketing.Core\obj\Debug\net8.0\ClientTicketing.Core.sourcelink.json
