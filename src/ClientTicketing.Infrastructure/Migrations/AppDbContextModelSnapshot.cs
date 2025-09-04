@@ -293,7 +293,7 @@ namespace ClientTicketing.Infrastructure.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedAt = new DateTime(2025, 9, 3, 23, 23, 18, 453, DateTimeKind.Utc).AddTicks(4828),
+                            CreatedAt = new DateTime(2025, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             CurrentTickets = 0,
                             CurrentUsers = 0,
                             IsActive = true,

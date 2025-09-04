@@ -197,7 +197,7 @@ namespace ClientTicketing.Infrastructure.Data
                     Id = 1,
                     Name = "Default Company",
                     Subdomain = "demo",
-                    CreatedAt = DateTime.UtcNow,
+                    CreatedAt = new DateTime(2025, 1, 1, 0, 0, 0, DateTimeKind.Utc),
                     IsActive = true,
                     Plan = SubscriptionPlan.Free,
                     MaxUsers = 5,
